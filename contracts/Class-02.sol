@@ -2,9 +2,10 @@
 
 pragma solidity >=0.4.22 <0.9.0;
 
+
 contract Class_02 {
     string public name = "Syed Junaid";
-
+    string public class = "Shah";
     function showName(string memory _name) public pure returns (string memory){
         return _name;
     }

@@ -7,6 +7,19 @@
 		"abi": [
 			{
 				"inputs": [],
+				"name": "class",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "name",
 				"outputs": [
 					{
@@ -90,11 +103,11 @@
 	},
 	"sources": {
 		"contracts/Class-02.sol": {
-			"keccak256": "0xad93a9a9cdeea3d49f3a1f8da098a3b78f5c481b5d3ddf09eedb0e297a2b713c",
+			"keccak256": "0xc1c34297d7a5870066d0e1ef4dc3df133482be202b67e52e573f126033f3dd83",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://4d1e4819ff9a8c1b61171ae11cc0f0a28caa338eef4abba4eaf0e1be3dd492dd",
-				"dweb:/ipfs/QmVAeZNv9q9mUBh8NisASk8qzRSeRq9oUX1gQ2M9jBGCTd"
+				"bzz-raw://317aad74f773cc7bc39dbb3c2576a6255c4e6d30e61c2ddd4ccbcc31bb923df5",
+				"dweb:/ipfs/QmfSQdJ2vRHgVzoXTwtVqaYAarr55YBYhgFwXGwzynpWCJ"
 			]
 		}
 	},
